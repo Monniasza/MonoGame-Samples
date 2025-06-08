@@ -57,4 +57,4 @@ monodroid*.msi
 *.dll
 
 #vs index
-/vs/*
+.vs/*
